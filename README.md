@@ -21,5 +21,5 @@
 - DSA in Java
 
 ### 📫 Connect with me
-- LinkedIn: [https://linkedin.com/in/your-id](https://www.linkedin.com/in/akashsingh062/)
+- LinkedIn: https://www.linkedin.com/in/akashsingh062/
 - GitHub: https://github.com/akashsingh062
