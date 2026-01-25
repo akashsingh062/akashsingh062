@@ -1,44 +1,99 @@
-# Hi, I'm Akash Singh (he/him) 👋
+# Hi, I'm Akash Singh 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/akashsingh062?label=Follow&style=social)](https://github.com/akashsingh062)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akashsingh062/)
-[![Instagram](https://img.shields.io/badge/Instagram-@akashsingh062_-pink?style=flat&logo=instagram)]
+[![Instagram](https://img.shields.io/badge/Instagram-@akashsingh062_-pink?style=flat&logo=instagram)](https://www.instagram.com/akashsingh062_/)
 
 ---
 
-Friendly, product-minded full-stack developer who builds fast, accessible, and delightful web experiences. I focus on shipping clean code, iterating quickly, and solving real user problems.
+A passionate developer who enjoys turning ideas into working web applications. I focus on writing clean, understandable code and building features that solve real problems. I like learning by building projects, improving my problem-solving skills, and collaborating with others who care about quality.
 
-- 🔭 I’m currently building web apps and developer tools
-- 🌱 I’m learning advanced system design and scalable front-end patterns
-- 👯 I’m open to collaboration, mentoring, and open-source contributions
-- ⚡ Fun fact: I love turning coffee into reliable deployments ☕️
-
----
-
-## Role
-Full‑stack Developer — open to freelance and full‑time opportunities
+- 🔭 I’m currently building full-stack projects using the MERN stack
+- 🌱 I’m strengthening my foundations in data structures, backend architecture, and React
+- 👯 I’m open to collaborating on projects and contributing to open-source
+- ⚡ Fun fact: I enjoy debugging issues until things finally work 😄
 
 ---
 
-## Top skills
-- JavaScript
-- React
-- Node.js / Express
-- Next.js
-- Tailwind CSS
-- PostgreSQL
-- Docker
-- Git & GitHub
+## What I Do
+I build practical full-stack web applications with a strong focus on clean architecture, real-world problem solving, and user-friendly interfaces.
+
+- Frontend: Responsive and modern UIs using React, Tailwind CSS, and JavaScript  
+- Backend: REST APIs with Node.js and Express, including authentication and role-based access  
+- Full-Stack: Connecting frontend and backend, managing data with MongoDB, and handling real user flows  
+- Problem Solving: Applying DSA and debugging skills to build reliable and maintainable features
 
 ---
 
-## Featured projects
+### 💻 Programming Languages
+- JavaScript  
+- Java (Data Structures & Algorithms)  
+- C (Numerical Methods, basics)  
 
-- [ByteBlogs](https://github.com/akashsingh062/ByteBlogs) — A lightweight, modern blogging platform focused on markdown-first writing and a clean reading experience. Language composition: JavaScript 94.5%, CSS 4.9%, HTML 0.6%.
+---
 
-- [BG-Removal-Website](https://github.com/akashsingh062/BG-Removal-Website) — Fast, privacy-first background removal web tool that runs in the browser and delivers quick, accurate results. Language composition: JavaScript 96.9%, CSS 1.9%, HTML 1.2%.
+### 🌐 Frontend Development
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Vite  
+- Tailwind CSS  
+- Responsive Design (Mobile-first)
 
-(If you’d like, I can replace these with 1–2 line summaries pulled from each repo’s README and add badges/screenshots.)
+---
+
+### ⚙️ Backend Development
+- Node.js  
+- Express.js  
+- REST APIs  
+- Authentication & Authorization  
+  - JWT  
+  - Role-based access (Admin / User / Doctor)  
+- Middleware  
+- File Handling  
+- CORS
+
+---
+
+### 🗄️ Databases
+- MongoDB  
+- Mongoose  
+- CRUD Operations  
+- Schema Design  
+
+---
+
+### 🔐 Authentication & Integrations
+- JWT Authentication  
+- Clerk Authentication  
+- Razorpay Payment Gateway  
+- Webhooks  
+
+---
+
+### 🚀 Full-Stack Development
+- MERN Stack (MongoDB, Express, React, Node)  
+- Admin & User Dashboards  
+- Role-Based Systems  
+- API ↔ Frontend Integration (Axios / Fetch)
+
+---
+
+### ☁️ Deployment & Hosting
+- Vercel  
+- Render  
+- Environment Variables  
+- Deployment Debugging (CORS, Build Errors)
+
+---
+
+### 🛠 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Postman  
+- npm  
+- MongoDB Atlas  
 
 ---
 
@@ -48,26 +103,18 @@ Full‑stack Developer — open to freelance and full‑time opportunities
 
 ---
 
-## Contact
-- Email: akash622003singh@gmail.com
-- Phone: +91 78809 52150
+## How to reach me
 - LinkedIn: [akashsingh062](https://www.linkedin.com/in/akashsingh062/)
 - Instagram: [@akashsingh062_](https://www.instagram.com/akashsingh062_/)
+- Email:akash622003singh@gmail.com 
 
-Prefer email or LinkedIn for opportunities — I usually reply fastest there.
+I respond fastest on email.
 
 ---
 
-## Want this README further customized?
-I can finalize and tweak everything — tone, layout, stats theme, badges, images, and project copy. Below are the items I can update for you:
-- Full name & pronouns (confirm)
-- Short bio / tagline — tone options: friendly, professional, technical, playful
-- Role / company text
-- Final top skills (3–10)
-- Polished project one-liners (I can extract from repo READMEs)
-- Resume link (if you want it added)
-- Stats cards theme: dark / light / radical / default
-- Profile image & banner (if you provide assets)
-- Emojis, language localization, and whether to display phone publicly
+## Open to work / Hire me
+I’m open to new opportunities — freelance, contract, and full-time roles that involve building products end-to-end. If you’re hiring or want to collaborate, email me or message on LinkedIn.
 
-Thanks for visiting — let’s build something great! 🚀
+---
+
+Thanks for visiting — drop a message and let’s build something great! 🚀
