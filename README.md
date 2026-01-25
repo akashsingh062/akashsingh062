@@ -6,22 +6,22 @@
 
 ---
 
-A passionate developer who enjoys turning ideas into working web applications. I focus on writing clean, understandable code and building features that solve real problems. I like learning by building projects, improving my problem-solving skills, and collaborating with others who care about quality.
+A passionate developer who enjoys turning ideas into working web applications. I focus on writing clean, understandable code and building features that solve real problems. I learn best by building projects, improving my problem-solving skills, and collaborating with others who care about quality.
 
-- 🔭 I’m currently building full-stack projects using the MERN stack
-- 🌱 I’m strengthening my foundations in data structures, backend architecture, and React
-- 👯 I’m open to collaborating on projects and contributing to open-source
-- ⚡ Fun fact: I enjoy debugging issues until things finally work 😄
+- 🔭 I’m currently building full-stack projects using the MERN stack  
+- 🌱 I’m strengthening my foundations in data structures, backend architecture, and React  
+- 👯 I’m open to collaborating on projects and contributing to open-source  
+- ⚡ Fun fact: I enjoy debugging issues until things finally work 😄  
 
 ---
 
 ## What I Do
-I build practical full-stack web applications with a strong focus on clean architecture, real-world problem solving, and user-friendly interfaces.
+I build practical full-stack web applications with a strong focus on clean architecture, real-world problem-solving, and user-friendly interfaces.
 
-- Frontend: Responsive and modern UIs using React, Tailwind CSS, and JavaScript  
-- Backend: REST APIs with Node.js and Express, including authentication and role-based access  
-- Full-Stack: Connecting frontend and backend, managing data with MongoDB, and handling real user flows  
-- Problem Solving: Applying DSA and debugging skills to build reliable and maintainable features
+- **Frontend:** Responsive and modern UIs using React, Tailwind CSS, and JavaScript  
+- **Backend:** REST APIs with Node.js and Express, including authentication and role-based access  
+- **Full-Stack:** Connecting frontend and backend, managing data with MongoDB, and handling real user flows  
+- **Problem Solving:** Applying DSA concepts and debugging skills to build maintainable features  
 
 ---
 
@@ -52,7 +52,7 @@ I build practical full-stack web applications with a strong focus on clean archi
   - Role-based access (Admin / User / Doctor)  
 - Middleware  
 - File Handling  
-- CORS
+- CORS  
 
 ---
 
@@ -106,15 +106,15 @@ I build practical full-stack web applications with a strong focus on clean archi
 ## How to reach me
 - LinkedIn: [akashsingh062](https://www.linkedin.com/in/akashsingh062/)
 - Instagram: [@akashsingh062_](https://www.instagram.com/akashsingh062_/)
-- Email:akash622003singh@gmail.com 
+- Email: akash622003singh@gmail.com  
 
 I respond fastest on email.
 
 ---
 
 ## Open to work / Hire me
-I’m open to new opportunities — freelance, contract, and full-time roles that involve building products end-to-end. If you’re hiring or want to collaborate, email me or message on LinkedIn.
+I’m open to new opportunities — freelance, contract, and full-time roles that involve building products end-to-end. If you’re hiring or want to collaborate, feel free to reach out.
 
 ---
 
-Thanks for visiting — drop a message and let’s build something great! 🚀
+Thanks for visiting — let’s build something great! 🚀
