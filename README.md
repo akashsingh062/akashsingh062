@@ -1,51 +1,44 @@
-# Hi, I'm Akash Singh 👋
+# Hi, I'm Akash Singh (he/him) 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/akashsingh062?label=Follow&style=social)](https://github.com/akashsingh062)
-[![Website](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](https://github.com/akashsingh062)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akashsingh062/)
-[![Instagram](https://img.shields.io/badge/Instagram-@akashsingh062_-pink?style=flat&logo=instagram)](https://www.instagram.com/akashsingh062_/)
+[![Instagram](https://img.shields.io/badge/Instagram-@akashsingh062_-pink?style=flat&logo=instagram)]
 
 ---
 
-A passionate builder who turns ideas into products. I focus on writing clean, maintainable code and shipping features that deliver value. I enjoy tackling hard problems, learning new technologies, and collaborating with people who care.
+Friendly, product-minded full-stack developer who builds fast, accessible, and delightful web experiences. I focus on shipping clean code, iterating quickly, and solving real user problems.
 
-- 🔭 I’m currently building projects that solve real user problems and scale
-- 🌱 I’m learning system design patterns and advanced front-end techniques
-- 👯 I’m open to collaboration, mentoring, and open-source contribution
+- 🔭 I’m currently building web apps and developer tools
+- 🌱 I’m learning advanced system design and scalable front-end patterns
+- 👯 I’m open to collaboration, mentoring, and open-source contributions
 - ⚡ Fun fact: I love turning coffee into reliable deployments ☕️
 
 ---
 
-## What I do
-I build full-stack applications and developer tools with a focus on reliability, performance, and great UX.
-
-- Frontend: Modern, accessible interfaces that feel fast and intuitive
-- Backend: Clean APIs, scalable services, and resilient systems
-- DevOps: CI/CD, observability, and automated workflows
-- Product: Shipping features that users love — from idea to production
+## Role
+Full‑stack Developer — open to freelance and full‑time opportunities
 
 ---
 
-## Tech & Tools
-Here are the technologies I work with most (customize as needed):
-
-- Languages: JavaScript, (add TypeScript/Python/Go if applicable)
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, FastAPI, PostgreSQL
-- Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions
-- Utilities: Redis, Kafka, Terraform, Prisma, GraphQL
+## Top skills
+- JavaScript
+- React
+- Node.js / Express
+- Next.js
+- Tailwind CSS
+- PostgreSQL
+- Docker
+- Git & GitHub
 
 ---
 
-## Featured Projects
+## Featured projects
 
-- [ByteBlogs](https://github.com/akashsingh062/ByteBlogs) — Personal / multi-author blogging platform. Language composition: JavaScript 94.5%, CSS 4.9%, HTML 0.6%.  
-  Short description: _Replace this with a 1–2 line summary, tech highlights, and any metrics (users, stars, notable features)._
+- [ByteBlogs](https://github.com/akashsingh062/ByteBlogs) — A lightweight, modern blogging platform focused on markdown-first writing and a clean reading experience. Language composition: JavaScript 94.5%, CSS 4.9%, HTML 0.6%.
 
-- [BG-Removal-Website](https://github.com/akashsingh062/BG-Removal-Website) — Background removal web app / tool. Language composition: JavaScript 96.9%, CSS 1.9%, HTML 1.2%.  
-  Short description: _Replace this with a 1–2 line summary, tech highlights, and any metrics (accuracy, throughput, integrations)._
+- [BG-Removal-Website](https://github.com/akashsingh062/BG-Removal-Website) — Fast, privacy-first background removal web tool that runs in the browser and delivers quick, accurate results. Language composition: JavaScript 96.9%, CSS 1.9%, HTML 1.2%.
 
-Tip: Send me 1–2 sentence summaries for each project (or let me craft them from repo READMEs), and I’ll replace the placeholders with punchy one-liners and add badges/screenshots.
+(If you’d like, I can replace these with 1–2 line summaries pulled from each repo’s README and add badges/screenshots.)
 
 ---
 
@@ -55,32 +48,26 @@ Tip: Send me 1–2 sentence summaries for each project (or let me craft them fro
 
 ---
 
-## How to reach me
+## Contact
+- Email: akash622003singh@gmail.com
+- Phone: +91 78809 52150
 - LinkedIn: [akashsingh062](https://www.linkedin.com/in/akashsingh062/)
 - Instagram: [@akashsingh062_](https://www.instagram.com/akashsingh062_/)
-- Email: your-email@example.com (replace with preferred contact)
-- Website / Portfolio: https://your-site.example.com (optional)
 
-I respond fastest on email and LinkedIn.
+Prefer email or LinkedIn for opportunities — I usually reply fastest there.
 
 ---
 
-## Open to work / Hire me
-I’m open to new opportunities — freelance, contract, and full-time roles that involve building products end-to-end. If you’re hiring or want to collaborate, email me or message on LinkedIn.
+## Want this README further customized?
+I can finalize and tweak everything — tone, layout, stats theme, badges, images, and project copy. Below are the items I can update for you:
+- Full name & pronouns (confirm)
+- Short bio / tagline — tone options: friendly, professional, technical, playful
+- Role / company text
+- Final top skills (3–10)
+- Polished project one-liners (I can extract from repo READMEs)
+- Resume link (if you want it added)
+- Stats cards theme: dark / light / radical / default
+- Profile image & banner (if you provide assets)
+- Emojis, language localization, and whether to display phone publicly
 
----
-
-## Want this README personalized?
-I can update and finalize this README with:
-- Full name & pronouns
-- A short bio / tagline in your preferred tone (friendly, professional, technical, playful)
-- Role / company
-- Top skills (3–10)
-- Polished project one-liners (send repo links or let me read the READMEs)
-- Contact email, portfolio link, resume link
-- Preferred theme for stats cards (dark, light, radical, default)
-- Optional: profile image, banner, emojis, language localization
-
----
-
-Thanks for visiting — drop a message and let’s build something great! 🚀
+Thanks for visiting — let’s build something great! 🚀
