@@ -1,18 +1,18 @@
-# Hi, I'm akashsingh062 👋
+# Hi, I'm Akash Singh 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/akashsingh062?label=Follow&style=social)](https://github.com/akashsingh062)
 [![Website](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome)](https://github.com/akashsingh062)
-[![Twitter Follow](https://img.shields.io/twitter/follow/akashsingh062?style=social)](https://twitter.com/akashsingh062)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akashsingh062/)
+[![Instagram](https://img.shields.io/badge/Instagram-@akashsingh062_-pink?style=flat&logo=instagram)](https://www.instagram.com/akashsingh062_/)
 
 ---
 
-A passionate builder who turns ideas into products. I focus on writing clean, maintainable code and shipping features that deliver value. I love tackling hard problems, learning new technologies, and collaborating with people who care.
+A passionate builder who turns ideas into products. I focus on writing clean, maintainable code and shipping features that deliver value. I enjoy tackling hard problems, learning new technologies, and collaborating with people who care.
 
-- 🔭 I’m currently working on: projects that solve real user problems and scale
-- 🌱 I’m learning: best practices in system design, scalable architecture, and advanced front-end patterns
-- 👯 I’m open to: collaboration, mentoring, and open-source contribution
-- 📝 I write about: engineering, product design, and developer ergonomics (link to blog below)
-- ⚡ Fun fact: I enjoy turning coffee into reliable deployments ☕️
+- 🔭 I’m currently building projects that solve real user problems and scale
+- 🌱 I’m learning system design patterns and advanced front-end techniques
+- 👯 I’m open to collaboration, mentoring, and open-source contribution
+- ⚡ Fun fact: I love turning coffee into reliable deployments ☕️
 
 ---
 
@@ -27,9 +27,9 @@ I build full-stack applications and developer tools with a focus on reliability,
 ---
 
 ## Tech & Tools
-Here are the technologies I work with most:
+Here are the technologies I work with most (customize as needed):
 
-- Languages: JavaScript / TypeScript, Python, Go
+- Languages: JavaScript, (add TypeScript/Python/Go if applicable)
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express, FastAPI, PostgreSQL
 - Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions
@@ -38,13 +38,14 @@ Here are the technologies I work with most:
 ---
 
 ## Featured Projects
-(Replace these with your actual project links and short descriptions.)
 
-- [project-name-1](https://github.com/akashsingh062/project-name-1) — One-line summary: what problem it solves, tech used, why it’s cool.
-- [project-name-2](https://github.com/akashsingh062/project-name-2) — One-line summary: impact, key features, short tech stack.
-- [project-name-3](https://github.com/akashsingh062/project-name-3) — One-line summary: outcome, notable metrics or users.
+- [ByteBlogs](https://github.com/akashsingh062/ByteBlogs) — Personal / multi-author blogging platform. Language composition: JavaScript 94.5%, CSS 4.9%, HTML 0.6%.  
+  Short description: _Replace this with a 1–2 line summary, tech highlights, and any metrics (users, stars, notable features)._
 
-Tip: Tell me 3–5 projects you want highlighted and I’ll write punchy one-liners and add badges/screenshots.
+- [BG-Removal-Website](https://github.com/akashsingh062/BG-Removal-Website) — Background removal web app / tool. Language composition: JavaScript 96.9%, CSS 1.9%, HTML 1.2%.  
+  Short description: _Replace this with a 1–2 line summary, tech highlights, and any metrics (accuracy, throughput, integrations)._
+
+Tip: Send me 1–2 sentence summaries for each project (or let me craft them from repo READMEs), and I’ll replace the placeholders with punchy one-liners and add badges/screenshots.
 
 ---
 
@@ -55,33 +56,30 @@ Tip: Tell me 3–5 projects you want highlighted and I’ll write punchy one-lin
 ---
 
 ## How to reach me
-- Email: your-email@example.com
-- Twitter: [@akashsingh062](https://twitter.com/akashsingh062)
-- LinkedIn: linkedin.com/in/your-profile
-- Website / Portfolio: https://your-site.example.com
+- LinkedIn: [akashsingh062](https://www.linkedin.com/in/akashsingh062/)
+- Instagram: [@akashsingh062_](https://www.instagram.com/akashsingh062_/)
+- Email: your-email@example.com (replace with preferred contact)
+- Website / Portfolio: https://your-site.example.com (optional)
 
-I respond fastest on email and Twitter DMs.
+I respond fastest on email and LinkedIn.
 
 ---
 
 ## Open to work / Hire me
-I’m open to new opportunities — freelance, contract, and full-time roles that involve building products end-to-end. If you’re hiring or want to collaborate, let’s talk!
+I’m open to new opportunities — freelance, contract, and full-time roles that involve building products end-to-end. If you’re hiring or want to collaborate, email me or message on LinkedIn.
 
 ---
 
-## How you can help
-- Star or try one of my projects
-- Open an issue or suggest improvements
-- Share feedback or an idea — I love discussing new challenges
-
----
-
-## README customizations I can add for you
-- A developer bio with tone options (friendly, professional, concise)
-- Optimized Featured Projects section with one-liners and screenshots
-- Custom badges (hireable, email, blog, resume)
-- Localized versions or role-specific READMEs (e.g., “Open-source maintainer”)
-- Animated GIF intro or a profile banner (provide assets)
+## Want this README personalized?
+I can update and finalize this README with:
+- Full name & pronouns
+- A short bio / tagline in your preferred tone (friendly, professional, technical, playful)
+- Role / company
+- Top skills (3–10)
+- Polished project one-liners (send repo links or let me read the READMEs)
+- Contact email, portfolio link, resume link
+- Preferred theme for stats cards (dark, light, radical, default)
+- Optional: profile image, banner, emojis, language localization
 
 ---
 
