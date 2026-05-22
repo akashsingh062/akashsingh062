@@ -6,9 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/akashsingh062">
-    <img src="https://img.shields.io/github/followers/akashsingh062" alt="GitHub followers" />
-  </a>
+  <a href="https://github.com/akashsingh062"><img src="https://img.shields.io/github/followers/akashsingh062?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="GitHub followers" /></a>
   <a href="https://www.linkedin.com/in/akashsingh062/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
