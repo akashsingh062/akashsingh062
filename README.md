@@ -91,6 +91,3 @@ I am open to exciting full-time, contract, and freelance opportunities where I c
 *   📧 **Email:** [akashsingh062.in@gmail.com](mailto:akashsingh062.in@gmail.com) (Fastest Response)
 *   💼 **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akashsingh062/)
 *   🌐 **Portfolio Website:** Coming Soon!
-
-![](https://komarev.com/ghpvc/?username=akashsingh062&color=blue&style=flat)
-![](https://hit.yhype.me/github/profile/akashsingh062)
