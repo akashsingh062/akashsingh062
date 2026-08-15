@@ -1,10 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Akash Singh 👋
-### 🚀 Full-Stack Web Developer & Computer Science Student
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF2A54,40:818cf8,100:38bdf8&height=220&section=header&text=Akash%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20B.Tech%20CSE%20@%20BIT%20Mesra&descSize=17&descAlignY=68" width="100%" alt="Akash Singh Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2A54&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;Next.js+16+%2B+React+19+Enthusiast;Real-Time+Apps+with+Socket.IO;Java+%2B+DSA+Practitioner+(200%2B+Solved);Building+%26+Shipping+Scalable+Products)](https://git.io/typing-svg)
+<br />
 
+<!-- Animated Typing SVG with Orbitron Cyberpunk Font -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF2A54&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+16+%2B+React+19+Architect;Real-Time+Apps+with+Socket.IO;Java+%2B+DSA+Practitioner+(200%2B+Solved);B.Tech+CSE+@+BIT+Mesra+('28);Building+%26+Shipping+Scalable+Products)](https://git.io/typing-svg)
+
+<br />
+
+<!-- Action Badges -->
 <p align="center">
   <a href="https://akashsingh062.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-ff2a54?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -18,7 +24,9 @@
   <a href="https://github.com/akashsingh062?tab=followers">
     <img src="https://img.shields.io/github/followers/akashsingh062?label=Followers&style=for-the-badge&color=818cf8&logo=github&logoColor=white" alt="GitHub followers" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=akashsingh062&label=Profile%20Views&color=ff2a54&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 </div>
 
@@ -26,34 +34,36 @@
 
 ### 💫 About Me
 
-I am a passionate **Full-Stack Developer** and **Computer Science student** at **Birla Institute of Technology, Mesra** (Class of 2028). I specialize in architecting production-ready, scalable web applications with modern frontend frameworks, real-time WebSocket communication, and robust backend architectures.
-
-- 🎓 **Education:** B.Tech in Computer Science and Engineering @ **Birla Institute of Technology, Mesra** (2024 – 2028)
-- 🔭 **Current Focus:** Building high-performance web applications using **Next.js 16**, **React 19**, **Socket.IO**, and **TypeScript**
-- 🧠 **Problem Solving:** Solved **200+ Data Structures & Algorithms** problems in **Java** on LeetCode (Graphs, DP, Trees, Arrays)
-- 🚀 **Shipping Velocity:** **30+ Repositories** published and actively maintained on GitHub with production deployments
-- 🏆 **Hackathons:** Participated in the **UIDAI Hackathon** and engineered **AtharvaAI** (AI-powered cultural knowledge comparison system)
-- 💬 **Ask Me About:** React, Next.js, Node.js, Express, MongoDB, WebSockets, REST APIs, and System Architecture
-- ⚡ **Philosophy:** *"while (alive) { code(); ship(); chai(); }"* ☕
-
----
-
-### 🌟 Featured Projects
-
-Here are some of the flagship full-stack applications I've built and deployed:
-
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :---: |
-| 🛒 **SnapCart** | `Next.js 16`, `React 19`, `TypeScript`, `Socket.IO`, `MongoDB`, `Stripe`, `Tailwind CSS` | Production-grade grocery delivery platform with 3 isolated portals (Customer, Delivery Partner, Admin), live GPS courier tracking, in-app chat, Stripe webhooks, and OTP verification. | [Live Demo](https://snapcart-d.vercel.app) • [GitHub](https://github.com/akashsingh062/snapcart) |
-| ☕ **Chai Charcha** | `Next.js 16`, `React 19`, `TypeScript`, `MongoDB`, `Better Auth`, `Tailwind CSS v4` | Modern community discussion forum featuring topic guilds, nested comment threads, karma reputation voting, real-time messaging, granular RBAC (Admin/Mod/Member), and 40% query optimization. | [Live Demo](https://chai-charcha.vercel.app) • [GitHub](https://github.com/akashsingh062/Chai-Charcha) |
-| 🎟️ **Eventra** | `React.js`, `Node.js`, `Express.js`, `MongoDB`, `QR Engine`, `Tailwind CSS` | Campus event management and ticketing platform with interactive schedules, attendee tracking, offline-capable live QR code ticket scanning dashboard, and concurrency protection. | [Live Demo](https://eventra-your-event-manager.onrender.com) • [GitHub](https://github.com/akashsingh062/Eventra-your-event-manager) |
-| 🩺 **Prescripto** | `React.js`, `Node.js`, `Express.js`, `MongoDB`, `RESTful APIs`, `Tailwind CSS` | Full-stack medical appointment scheduling platform with doctor specialization filters, dynamic date/slot availability, patient booking history, and clean REST APIs. | [Live Demo](https://prescripto-my-doctor.onrender.com/) • [GitHub](https://github.com/akashsingh062/Prescripto-My-Doctor) |
-| 🔗 **Linkify** | `Next.js 16`, `React 19`, `TypeScript`, `Tailwind CSS`, `MongoDB`, `JWT` | Personal link aggregator with 5 customizable aesthetic themes, live phone preview mockup, glassmorphism UI, and one-click shareable public profiles. | [Live Demo](https://linkify-ak.vercel.app/) • [GitHub](https://github.com/akashsingh062/link-tree) |
-| 🤖 **Smart AI Todo** | `TypeScript`, `React.js`, `Next.js`, `Tailwind CSS`, `AI Integration` | Intelligent task management system featuring AI-powered task suggestions, interactive Kanban board workflow, progress tracking, and category organization. | [Live Demo](https://smart-ai-todo.onrender.com) • [GitHub](https://github.com/akashsingh062/Smart-Ai-Todo) |
+```typescript
+const akashSingh: FullStackDeveloper = {
+  name: "Akash Singh",
+  education: "B.Tech in Computer Science & Engineering @ Birla Institute of Technology, Mesra ('28)",
+  currentStack: ["Next.js 16", "React 19", "TypeScript", "Socket.IO", "Node.js", "Express", "MongoDB"],
+  problemSolving: "200+ LeetCode DSA Problems Solved in Java (Graphs, DP, Trees, Arrays)",
+  shippingCadence: "30+ Repositories Maintained & Deployed on Vercel & Render",
+  hackathons: ["UIDAI Hackathon — AtharvaAI (AI-powered cultural knowledge comparison engine)"],
+  askMeAbout: ["React", "Next.js", "Node.js", "Express", "WebSockets", "REST APIs", "System Architecture"],
+  philosophy: () => {
+    while (alive) {
+      code();
+      ship();
+      chai();
+    }
+  }
+};
+```
 
 ---
 
 ### 💻 Technologies & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,c,react,nextjs,tailwind,nodejs,express,mongodb,redux,html,css,git,github,postman,bun,vscode,vercel&theme=dark" alt="My Tech Stack" />
+  </a>
+</div>
+
+<br />
 
 <details open>
   <summary><b>Languages & Core Foundations</b></summary>
@@ -115,16 +125,26 @@ Here are some of the flagship full-stack applications I've built and deployed:
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 🌟 Featured Projects
+
+Here are some of the flagship full-stack applications I've built and deployed:
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :---: |
+| 🛒 **SnapCart** | `Next.js 16`, `React 19`, `TypeScript`, `Socket.IO`, `MongoDB`, `Stripe`, `Tailwind CSS` | Production-grade grocery delivery platform with 3 isolated portals (Customer, Delivery Partner, Admin), live GPS courier tracking, in-app chat, Stripe webhooks, and OTP verification. | [Live Demo](https://snapcart-d.vercel.app) • [GitHub](https://github.com/akashsingh062/snapcart) |
+| ☕ **Chai Charcha** | `Next.js 16`, `React 19`, `TypeScript`, `MongoDB`, `Better Auth`, `Tailwind CSS v4` | Modern community discussion forum featuring topic guilds, nested comment threads, karma reputation voting, real-time messaging, granular RBAC (Admin/Mod/Member), and 40% query optimization. | [Live Demo](https://chai-charcha.vercel.app) • [GitHub](https://github.com/akashsingh062/Chai-Charcha) |
+| 🎟️ **Eventra** | `React.js`, `Node.js`, `Express.js`, `MongoDB`, `QR Engine`, `Tailwind CSS` | Campus event management and ticketing platform with interactive schedules, attendee tracking, offline-capable live QR code ticket scanning dashboard, and concurrency protection. | [Live Demo](https://eventra-your-event-manager.onrender.com) • [GitHub](https://github.com/akashsingh062/Eventra-your-event-manager) |
+| 🩺 **Prescripto** | `React.js`, `Node.js`, `Express.js`, `MongoDB`, `RESTful APIs`, `Tailwind CSS` | Full-stack medical appointment scheduling platform with doctor specialization filters, dynamic date/slot availability, patient booking history, and clean REST APIs. | [Live Demo](https://prescripto-my-doctor.onrender.com/) • [GitHub](https://github.com/akashsingh062/Prescripto-My-Doctor) |
+| 🔗 **Linkify** | `Next.js 16`, `React 19`, `TypeScript`, `Tailwind CSS`, `MongoDB`, `JWT` | Personal link aggregator with 5 customizable aesthetic themes, live phone preview mockup, glassmorphism UI, and one-click shareable public profiles. | [Live Demo](https://linkify-ak.vercel.app/) • [GitHub](https://github.com/akashsingh062/link-tree) |
+| 🤖 **Smart AI Todo** | `TypeScript`, `React.js`, `Next.js`, `Tailwind CSS`, `AI Integration` | Intelligent task management system featuring AI-powered task suggestions, interactive Kanban board workflow, progress tracking, and category organization. | [Live Demo](https://smart-ai-todo.onrender.com) • [GitHub](https://github.com/akashsingh062/Smart-Ai-Todo) |
+
+---
+
+### 📊 Coding Metrics & Problem Solving
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsingh062&show_icons=true&theme=radical&hide_border=false&title_color=ff2a54&text_color=94a3b8&icon_color=38bdf8&bg_color=0d1117&border_color=30363d" alt="Akash's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsingh062&layout=compact&theme=radical&hide_border=false&title_color=ff2a54&text_color=94a3b8&bg_color=0d1117&border_color=30363d" alt="Top Languages" width="45%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://streak-stats.demolab.com?user=akashsingh062&theme=radical&hide_border=false&background=0D1117&border=30363D&ring=FF2A54&fire=FF2A54&currStreakLabel=FF2A54" alt="GitHub Streak" width="95%" />
+  <!-- LeetCode Problem Solving Card -->
+  <img src="https://leetcard.jacoblin.cool/akashsingh062?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -139,7 +159,10 @@ I am actively seeking software engineering internships, full-stack developer rol
 - 🐙 **GitHub:** [github.com/akashsingh062](https://github.com/akashsingh062)
 - 📞 **Phone:** [+91 7880952150](tel:+917880952150)
 
+<br />
+
+<!-- Animated Footer Banner -->
 <div align="center">
-  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF2A54,40:818cf8,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Wave" />
   <sub>Designed & Developed by <b>Akash Singh</b> • © 2026</sub>
 </div>
