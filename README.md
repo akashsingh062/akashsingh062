@@ -1,12 +1,20 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF2A54,40:818cf8,100:38bdf8&height=220&section=header&text=Akash%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20B.Tech%20CSE%20@%20BIT%20Mesra&descSize=17&descAlignY=68" width="100%" alt="Akash Singh Banner" />
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER BANNER                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=Akash%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20B.Tech%20CSE%20%40%20BIT%20Mesra&descSize=18&descAlignY=62&descColor=e0f2fe" width="100%" alt="Akash Singh Banner" />
 
 <br />
 
-<!-- Animated Typing SVG with Orbitron Cyberpunk Font -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF2A54&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+16+%2B+React+19+Architect;Real-Time+Apps+with+Socket.IO;Java+%2B+DSA+Practitioner+(200%2B+Solved);B.Tech+CSE+@+BIT+Mesra+('28);Building+%26+Shipping+Scalable+Products)](https://git.io/typing-svg)
+<!-- ANIMATED TYPING ROW 1 — ORBITRON FONT (cyberpunk titles) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2800&pause=900&color=FF2A54&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Web+Developer;⚡+Next.js+16+%2B+React+19+Architect;🔌+Real-Time+Apps+with+Socket.IO;🧠+Java+%2B+DSA+%7C+200%2B+Problems+Solved;🎓+B.Tech+CSE+%40+BIT+Mesra+('28);📦+30%2B+Projects+Deployed+on+Vercel)](https://git.io/typing-svg)
+
+<br />
+
+<!-- ANIMATED TYPING ROW 2 — FIRA CODE FONT (code-style subtitle) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1200&color=818cf8&center=true&vCenter=true&width=700&lines=const+me+%3D+%7B+code%3A+true%2C+ship%3A+true%2C+chai%3A+always+%7D;Building+scalable+products+that+matter+💡;Open+to+Internships+%7C+Full-Stack+Roles+%7C+Freelance)](https://git.io/typing-svg)
 
 <br />
 
@@ -27,46 +35,63 @@
   <img src="https://komarev.com/ghpvc/?username=akashsingh062&label=Profile%20Views&color=ff2a54&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<br />
+
+<!-- GitHub Contribution Heatmap (no setup required) -->
+<img src="https://ghchart.rshah.org/FF2A54/akashsingh062" alt="Akash's GitHub Contribution Chart" width="100%" />
 
 </div>
 
----
+<!-- ──────────── GRADIENT WAVE DIVIDER ──────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3" width="100%" />
 
-### 💫 About Me
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 💫 About Me
 
 ```typescript
 const akashSingh: FullStackDeveloper = {
-  name: "Akash Singh",
-  education: "B.Tech in Computer Science & Engineering @ Birla Institute of Technology, Mesra ('28)",
+  name        : "Akash Singh",
+  education   : "B.Tech in Computer Science & Engineering @ BIT Mesra ('28)",
   currentStack: ["Next.js 16", "React 19", "TypeScript", "Socket.IO", "Node.js", "Express", "MongoDB"],
-  problemSolving: "200+ LeetCode DSA Problems Solved in Java (Graphs, DP, Trees, Arrays)",
-  shippingCadence: "30+ Repositories Maintained & Deployed on Vercel & Render",
-  hackathons: ["UIDAI Hackathon — AtharvaAI (AI-powered cultural knowledge comparison engine)"],
-  askMeAbout: ["React", "Next.js", "Node.js", "Express", "WebSockets", "REST APIs", "System Architecture"],
-  philosophy: () => {
-    while (alive) {
-      code();
-      ship();
-      chai();
-    }
+  dsa         : "200+ LeetCode Problems Solved in Java (Graphs, DP, Trees, Arrays)",
+  shipping    : "30+ Repositories Maintained & Deployed on Vercel & Render",
+  hackathons  : ["UIDAI Hackathon — AtharvaAI (AI-powered cultural knowledge comparison engine)"],
+  askMeAbout  : ["React", "Next.js", "Node.js", "Express", "WebSockets", "REST APIs", "System Architecture"],
+  funFact     : "I debug with console.log and I'm not sorry 😄",
+  philosophy  : () => {
+    while (alive) { code(); ship(); drinkChai(); }
   }
 };
 ```
 
----
+<br />
 
-### 💻 Technologies & Tools
+<!-- ──────────── GRADIENT WAVE DIVIDER ──────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               TECHNOLOGIES & TOOLS SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 💻 Technologies & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,c,react,nextjs,tailwind,nodejs,express,mongodb,redux,html,css,git,github,postman,bun,vscode,vercel&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,ts,js,c,react,nextjs,tailwind,nodejs,express,mongodb,redux,html,css,git,github,postman,bun,vscode,vercel&theme=dark&perline=10" alt="My Tech Stack" />
   </a>
 </div>
 
 <br />
 
 <details open>
-  <summary><b>Languages & Core Foundations</b></summary>
+  <summary><b>🟠 Languages & Core Foundations</b></summary>
   <br />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -78,7 +103,7 @@ const akashSingh: FullStackDeveloper = {
 </details>
 
 <details open>
-  <summary><b>Frontend Development</b></summary>
+  <summary><b>🔵 Frontend Development</b></summary>
   <br />
   <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
@@ -89,7 +114,7 @@ const akashSingh: FullStackDeveloper = {
 </details>
 
 <details open>
-  <summary><b>Backend, Real-Time & Databases</b></summary>
+  <summary><b>🟢 Backend, Real-Time & Databases</b></summary>
   <br />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -100,7 +125,7 @@ const akashSingh: FullStackDeveloper = {
 </details>
 
 <details open>
-  <summary><b>Authentication & Integrations</b></summary>
+  <summary><b>🟣 Authentication & Integrations</b></summary>
   <br />
   <img src="https://img.shields.io/badge/Better_Auth-7C3AED?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
@@ -110,7 +135,7 @@ const akashSingh: FullStackDeveloper = {
 </details>
 
 <details open>
-  <summary><b>Tools, DevOps & Environment</b></summary>
+  <summary><b>⚙️ Tools, DevOps & Environment</b></summary>
   <br />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -123,46 +148,102 @@ const akashSingh: FullStackDeveloper = {
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </details>
 
----
+<br />
 
-### 🌟 Featured Projects
-
-Here are some of the flagship full-stack applications I've built and deployed:
-
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :---: |
-| 🛒 **SnapCart** | `Next.js 16`, `React 19`, `TypeScript`, `Socket.IO`, `MongoDB`, `Stripe`, `Tailwind CSS` | Production-grade grocery delivery platform with 3 isolated portals (Customer, Delivery Partner, Admin), live GPS courier tracking, in-app chat, Stripe webhooks, and OTP verification. | [Live Demo](https://snapcart-d.vercel.app) • [GitHub](https://github.com/akashsingh062/snapcart) |
-| ☕ **Chai Charcha** | `Next.js 16`, `React 19`, `TypeScript`, `MongoDB`, `Better Auth`, `Tailwind CSS v4` | Modern community discussion forum featuring topic guilds, nested comment threads, karma reputation voting, real-time messaging, granular RBAC (Admin/Mod/Member), and 40% query optimization. | [Live Demo](https://chai-charcha.vercel.app) • [GitHub](https://github.com/akashsingh062/Chai-Charcha) |
-| 🎟️ **Eventra** | `React.js`, `Node.js`, `Express.js`, `MongoDB`, `QR Engine`, `Tailwind CSS` | Campus event management and ticketing platform with interactive schedules, attendee tracking, offline-capable live QR code ticket scanning dashboard, and concurrency protection. | [Live Demo](https://eventra-your-event-manager.onrender.com) • [GitHub](https://github.com/akashsingh062/Eventra-your-event-manager) |
-| 🩺 **Prescripto** | `React.js`, `Node.js`, `Express.js`, `MongoDB`, `RESTful APIs`, `Tailwind CSS` | Full-stack medical appointment scheduling platform with doctor specialization filters, dynamic date/slot availability, patient booking history, and clean REST APIs. | [Live Demo](https://prescripto-my-doctor.onrender.com/) • [GitHub](https://github.com/akashsingh062/Prescripto-My-Doctor) |
-| 🔗 **Linkify** | `Next.js 16`, `React 19`, `TypeScript`, `Tailwind CSS`, `MongoDB`, `JWT` | Personal link aggregator with 5 customizable aesthetic themes, live phone preview mockup, glassmorphism UI, and one-click shareable public profiles. | [Live Demo](https://linkify-ak.vercel.app/) • [GitHub](https://github.com/akashsingh062/link-tree) |
-| 🤖 **Smart AI Todo** | `TypeScript`, `React.js`, `Next.js`, `Tailwind CSS`, `AI Integration` | Intelligent task management system featuring AI-powered task suggestions, interactive Kanban board workflow, progress tracking, and category organization. | [Live Demo](https://smart-ai-todo.onrender.com) • [GitHub](https://github.com/akashsingh062/Smart-Ai-Todo) |
-
----
-
-### 📊 Coding Metrics & Problem Solving
-
-<div align="center">
-  <!-- LeetCode Problem Solving Card -->
-  <img src="https://leetcard.jacoblin.cool/akashsingh062?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
----
-
-### 🤝 Connect & Collaborate
-
-I am actively seeking software engineering internships, full-stack developer roles, and freelance/contract opportunities. If you're building something ambitious or want to collaborate, feel free to reach out!
-
-- 🌐 **Portfolio Website:** [akashsingh062.vercel.app](https://akashsingh062.vercel.app/)
-- 📧 **Email:** [akashsingh062.in@gmail.com](mailto:akashsingh062.in@gmail.com) *(Fastest response)*
-- 💼 **LinkedIn:** [linkedin.com/in/akashsingh062](https://www.linkedin.com/in/akashsingh062/)
-- 🐙 **GitHub:** [github.com/akashsingh062](https://github.com/akashsingh062)
-- 📞 **Phone:** [+91 7880952150](tel:+917880952150)
+<!-- ──────────── GRADIENT WAVE DIVIDER ──────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,0&height=3" width="100%" />
 
 <br />
 
-<!-- Animated Footer Banner -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                 DSA & PROBLEM SOLVING SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🧠 DSA & Problem Solving
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF2A54,40:818cf8,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <sub>Designed & Developed by <b>Akash Singh</b> • © 2026</sub>
+  <img src="https://leetcard.jacoblin.cool/akashsingh062?theme=radical&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="70%" />
+</div>
+
+<br />
+
+<!-- ──────────── GRADIENT WAVE DIVIDER ──────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6&height=3" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+> 🏆 Flagship full-stack applications — built, shipped, and actively maintained.
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :---: |
+| 🛒 **SnapCart** | `Next.js 16` `React 19` `TypeScript` `Socket.IO` `MongoDB` `Stripe` | Production-grade grocery delivery platform with 3 isolated portals (Customer, Delivery Partner, Admin), live GPS courier tracking, in-app chat, Stripe webhooks & OTP verification. | [🌐 Live](https://snapcart-d.vercel.app) · [📦 Repo](https://github.com/akashsingh062/snapcart) |
+| ☕ **Chai Charcha** | `Next.js 16` `React 19` `TypeScript` `MongoDB` `Better Auth` | Modern community discussion forum with topic guilds, nested comments, karma voting, real-time messaging, granular RBAC & 40% query optimization. | [🌐 Live](https://chai-charcha.vercel.app) · [📦 Repo](https://github.com/akashsingh062/Chai-Charcha) |
+| 🎟️ **Eventra** | `React.js` `Node.js` `Express.js` `MongoDB` `QR Engine` | Campus event management platform with interactive schedules, attendee tracking, offline-capable live QR scanning, and concurrency protection. | [🌐 Live](https://eventra-your-event-manager.onrender.com) · [📦 Repo](https://github.com/akashsingh062/Eventra-your-event-manager) |
+| 🩺 **Prescripto** | `React.js` `Node.js` `Express.js` `MongoDB` `RESTful APIs` | Full-stack medical appointment platform with doctor filters, dynamic slot availability, patient booking history & clean REST APIs. | [🌐 Live](https://prescripto-my-doctor.onrender.com/) · [📦 Repo](https://github.com/akashsingh062/Prescripto-My-Doctor) |
+| 🔗 **Linkify** | `Next.js 16` `React 19` `TypeScript` `MongoDB` `JWT` | Personal link aggregator with 5 aesthetic themes, live phone preview mockup, glassmorphism UI & one-click shareable profiles. | [🌐 Live](https://linkify-ak.vercel.app/) · [📦 Repo](https://github.com/akashsingh062/link-tree) |
+| 🤖 **Smart AI Todo** | `TypeScript` `React.js` `Next.js` `AI Integration` | Intelligent task management with AI-powered suggestions, Kanban board workflow, progress tracking & category organization. | [🌐 Live](https://smart-ai-todo.onrender.com) · [📦 Repo](https://github.com/akashsingh062/Smart-Ai-Todo) |
+
+<br />
+
+<!-- ──────────── GRADIENT WAVE DIVIDER ──────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,2&height=3" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--              ANIMATED PHILOSOPHY QUOTE — SATISFY FONT             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=26&duration=4000&pause=1500&color=d946ef&center=true&vCenter=true&width=760&lines=%22The+best+code+is+the+code+that+ships.%22;%22Build+fast.+Learn+faster.+Ship+always.%22;%22Every+commit+is+a+step+forward+🚀%22;%22Code.+Ship.+Chai.+Repeat.+☕%22)](https://git.io/typing-svg)
+
+</div>
+
+<br />
+
+<!-- ──────────── GRADIENT WAVE DIVIDER ──────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,0&height=3" width="100%" />
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   CONNECT & COLLABORATE                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🤝 Connect & Collaborate
+
+> 🎯 Actively seeking **software engineering internships**, **full-stack roles**, and **freelance/contract opportunities**. If you're building something ambitious — let's connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-akashsingh062.vercel.app-FF2A54?style=for-the-badge&logo=vercel&logoColor=white)](https://akashsingh062.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-akashsingh062.in@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsingh062.in@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-akashsingh062-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsingh062/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-akashsingh062-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsingh062)
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                 ANIMATED FOOTER — FIRA CODE FONT                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=818cf8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!+⭐;Star+a+repo+if+you+find+it+useful!+🙏;Let's+build+something+great+together!+🚀)](https://git.io/typing-svg)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11&height=130&section=footer" width="100%" alt="Footer Wave" />
+
+<sub>✨ Designed & Built with ❤️ by <b>Akash Singh</b> · © 2026</sub>
+
 </div>
